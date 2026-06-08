@@ -1,6 +1,3 @@
-## Hi there 👋
-LinkedIn GitHubLocation
-
 👨‍💻 About Me
 I am a passionate Final Year B.Sc. AI & ML student with a strong foundation in Data Analysis, Web Development, and Machine Learning. I love bridging the gap between data and real-world applications through clean code and intelligent systems.
 
@@ -9,15 +6,8 @@ I am a passionate Final Year B.Sc. AI & ML student with a strong foundation in D
 ⚡ Fun fact: I enjoy turning complex datasets into beautiful, interactive visualizations!
 🛠️ Tech Stack
 
-
-
-
-📊 GitHub Analytics
-
-GitHub Streak
 🚀 Featured Project
-
-A collection of AI, Machine Learning, Data Analysis, and Web Development projects created during my B.Sc. AI & ML journey.
+      A collection of AI, Machine Learning, Data Analysis, and Web Development projects created during my B.Sc. AI & ML journey.
 📫 How to Reach Me
 ✉️ Email: mr.ravanan.03@gmail.com
 💼 LinkedIn:www.linkedin.com/in/ramanan-p-5810a9375
