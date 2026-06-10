@@ -31,8 +31,7 @@ This repository contains projects related to:
 - Jupyter Notebook
 
 ## Projects
-
-
+budget-planner
 ### 
 
 ## Author
