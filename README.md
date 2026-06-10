@@ -37,6 +37,7 @@ budget-planner
 ## Author
 **P. Ramanan**
 - GitHub: `mrravanan03-debug`
+- LinkedIn:www.linkedin.com/in/ramanan-p-5810a9375
 
 ## Future Goals
 - Build more AI and ML projects
